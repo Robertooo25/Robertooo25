@@ -13,8 +13,7 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 
 ### Engineering Softwares
 <img align="left" alt="Ansys" width="70px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/320px-Ansys_logo_%282019%29.svg.png" />
-<img align="left" alt="SolidWorks" width="70px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/90817926/188202176-50af9d9a-08cd-47fd-a71e-183a914ec23e.png" />
-<img align="left" alt="ProCast" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/71769312/227775653-d28a9cdc-f0e0-4174-aa84-c54c2b7e2879.jpg" />
+<img align="left" alt="Solidoworks" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/71769312/227775653-d28a9cdc-f0e0-4174-aa84-c54c2b7e2879.jpg" />
 <br />
 
 #
