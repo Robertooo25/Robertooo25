@@ -30,6 +30,9 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:robertohqf@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engmecroberto)
 
+[badges bibliothek]: https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md
+
+
 <details>
 <summary><b>Title of foldable section</b></summary>
 
