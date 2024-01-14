@@ -3,7 +3,7 @@
 
 Mechanical Engineer working at Bosch with automotive software delevolpment for Stellantis' brands (Fiat, Jeep, Maserati, Dodge, Alfa Romeo, etc). He's deeply passionate about automotive technology and R&D and has a noteworthy academic backgroung. Throughout college time he was founding member of the university's first Electric Formula SAE team. He was undergraduate researcher, with focus on smart materials, particularly Ni-Ti Shape Memory Alloys. And served as Teaching Assistant for the course of Mechanical Design.
 
-### Programming Languages
+### 💻 Programming Languages
 <img align="left" alt="Matlab" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -12,7 +12,9 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 
 ### Engineering Softwares
 <img align="left" alt="Ansys" width="70px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/320px-Ansys_logo_%282019%29.svg.png" />
-<img align="left" alt="Ansys" width="70px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/90817926/188202176-50af9d9a-08cd-47fd-a71e-183a914ec23e.png" />
+<img align="left" alt="SolidWorks" width="70px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/90817926/188202176-50af9d9a-08cd-47fd-a71e-183a914ec23e.png" />
+<img align="left" alt="ProCast" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/71769312/227775653-d28a9cdc-f0e0-4174-aa84-c54c2b7e2879.jpg" />
+
 <br />
 
 #
@@ -40,5 +42,9 @@ Any folded content here. It requires an empty line just above it.
 
 #
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+## 🌐 Socials: 
+[![Gmail](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_edwin_jarvis) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engmecroberto)
+
+[Linkedin]: https://www.linkedin.com/in/engmecroberto/
+[Gmail]: robertohqf@gmail.com
