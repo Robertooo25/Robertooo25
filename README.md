@@ -19,7 +19,7 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 #
 
 ### 🌐 Languages
-<img align="left" alt="Portugese" width="30px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/flag_rect_roundcorner_Brazil.svg"/> Portuguese - Native
+<img align="left" alt="Portuguese" width="30px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/flag_rect_roundcorner_Brazil.svg"/> Portuguese - Native
 
 <img align="left" alt="English" width="30px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/united-states-svgrepo-com.svg"/> English - Fluent
 
