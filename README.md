@@ -18,18 +18,19 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 <br />
 
 ### 🌐 Languages
-<img align="left" alt="Portugese" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/flag_rect_roundcorner_Brazil.svg"/> Portuguese - Native
+<img align="left" alt="Portugese" width="30px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/flag_rect_roundcorner_Brazil.svg"/> Portuguese - Native
 
-<img align="left" alt="English" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/united-states-svgrepo-com.svg"/> English - Fluent
+<img align="left" alt="English" width="30px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/united-states-svgrepo-com.svg"/> English - Fluent
 
-<img align="left" alt="German" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/germany-svgrepo-com.svg"/> German - Beginner
+<img align="left" alt="German" width="30px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/germany-svgrepo-com.svg"/> German - Beginner
 <br />
 
 #
 
 ### 📺 Some projects
+
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How Much Do Software Engineers ACTUALLY Make](https://ytcards.demolab.com/?id=iACHGmlDWiw&title=How+Much+Do+Software+Engineers+ACTUALLY+Make&lang=en&timestamp=1705158060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1091 "How Much Do Software Engineers ACTUALLY Make")](https://www.youtube.com/watch?v=iACHGmlDWiw)
+<!-- [![How Much Do Software Engineers ACTUALLY Make](https://ytcards.demolab.com/?id=iACHGmlDWiw&title=How+Much+Do+Software+Engineers+ACTUALLY+Make&lang=en&timestamp=1705158060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1091 "How Much Do Software Engineers ACTUALLY Make")](https://www.youtube.com/watch?v=iACHGmlDWiw) -->
 <!-- END YOUTUBE-CARDS -->
 
 #
