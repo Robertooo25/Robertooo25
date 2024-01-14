@@ -3,11 +3,15 @@
 
 Mechanical Engineer working at Bosch with automotive software delevolpment for Stellantis' brands (Fiat, Jeep, Maserati, Dodge, Alfa Romeo, etc). He's deeply passionate about automotive technology and R&D and has a noteworthy academic backgroung. Throughout college time he was founding member of the university's first Electric Formula SAE team. He was undergraduate researcher, with focus on smart materials, particularly Ni-Ti Shape Memory Alloys. And served as Teaching Assistant for the course of Mechanical Design.
 
-### 🧰 Softwares and Programming Languages
+### 🧰 Programming Languages
 
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-<img align="left" alt="Spring" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Spring" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Matlab" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
+<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<br />
+
+### Engineering Softwares
+<img align="left" alt="Ansys" width="70px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/320px-Ansys_logo_%282019%29.svg.png" />
 <br />
 
 #
@@ -32,6 +36,16 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 
 Any folded content here. It requires an empty line just above it.
 </details>
+
+#
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
+
+#
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
