@@ -17,6 +17,8 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 <img align="left" alt="ProCast" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/71769312/227775653-d28a9cdc-f0e0-4174-aa84-c54c2b7e2879.jpg" />
 <br />
 
+#
+
 ### 🌐 Languages
 <img align="left" alt="Portugese" width="30px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/flag_rect_roundcorner_Brazil.svg"/> Portuguese - Native
 
