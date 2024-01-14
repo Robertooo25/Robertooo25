@@ -26,13 +26,9 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 
 #
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/engmecroberto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<Gmail>
-</p>
-
-#
+### 🌐 Contact me: 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:robertohqf@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engmecroberto)
 
 <details>
 <summary><b>Title of foldable section</b></summary>
@@ -41,10 +37,3 @@ Any folded content here. It requires an empty line just above it.
 </details>
 
 #
-
-## 🌐 Socials: 
-[![Gmail](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_edwin_jarvis) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engmecroberto)
-
-[Linkedin]: https://www.linkedin.com/in/engmecroberto/
-[Gmail]: robertohqf@gmail.com
