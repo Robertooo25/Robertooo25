@@ -1,8 +1,7 @@
 # Roberto Honório
-
 **`Mechanical Engineer (Propulsion Controls | ... )`**
 
-My intro.
+Mechanical Engineer working at Bosch with automotive software delevolpment for Stellantis' brands (Fiat, Jeep, Maserati, Dodge, Alfa Romeo, etc). He's deeply passionate about automotive technology and R&D and has a noteworthy academic backgroung. Throughout college time he was founding member of the university's first Electric Formula SAE team. He was undergraduate researcher, with focus on smart materials, particularly Ni-Ti Shape Memory Alloys. And served as Teaching Assistant for the course of Mechanical Design.
 
 ### 🧰 Languages and Tools
 
@@ -26,7 +25,7 @@ My intro.
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 Some projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![How Much Do Software Engineers ACTUALLY Make](https://ytcards.demolab.com/?id=iACHGmlDWiw&title=How+Much+Do+Software+Engineers+ACTUALLY+Make&lang=en&timestamp=1705158060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1091 "How Much Do Software Engineers ACTUALLY Make")](https://www.youtube.com/watch?v=iACHGmlDWiw)
