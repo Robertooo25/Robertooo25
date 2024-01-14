@@ -26,10 +26,16 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 #
 
 ### 📺 Some projects
-
 <!-- BEGIN YOUTUBE-CARDS -->
 [![How Much Do Software Engineers ACTUALLY Make](https://ytcards.demolab.com/?id=iACHGmlDWiw&title=How+Much+Do+Software+Engineers+ACTUALLY+Make&lang=en&timestamp=1705158060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1091 "How Much Do Software Engineers ACTUALLY Make")](https://www.youtube.com/watch?v=iACHGmlDWiw)
 <!-- END YOUTUBE-CARDS -->
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/engmecroberto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<Gmail>
+</p>
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
