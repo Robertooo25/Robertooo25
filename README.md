@@ -5,6 +5,8 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 
 ### 🧰 Softwares and Programming Languages
 
+[![My Skills](https://skillicons.dev/icons?i=matlab,cpp,python)](https://skillicons.dev)
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -30,12 +32,21 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 [![How Much Do Software Engineers ACTUALLY Make](https://ytcards.demolab.com/?id=iACHGmlDWiw&title=How+Much+Do+Software+Engineers+ACTUALLY+Make&lang=en&timestamp=1705158060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1091 "How Much Do Software Engineers ACTUALLY Make")](https://www.youtube.com/watch?v=iACHGmlDWiw)
 <!-- END YOUTUBE-CARDS -->
 
+#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/engmecroberto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <Gmail>
 </p>
+
+#
+
+<details>
+<summary><b>Title of foldable section</b></summary>
+
+Any folded content here. It requires an empty line just above it.
+</details>
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
