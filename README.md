@@ -3,7 +3,7 @@
 
 Mechanical Engineer working at Bosch with automotive software delevolpment for Stellantis' brands (Fiat, Jeep, Maserati, Dodge, Alfa Romeo, etc). He's deeply passionate about automotive technology and R&D and has a noteworthy academic backgroung. Throughout college time he was founding member of the university's first Electric Formula SAE team. He was undergraduate researcher, with focus on smart materials, particularly Ni-Ti Shape Memory Alloys. And served as Teaching Assistant for the course of Mechanical Design.
 
-### 🧰 Languages and Tools
+### 🧰 Softwares and Programming Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
