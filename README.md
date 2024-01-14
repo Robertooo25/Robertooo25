@@ -18,11 +18,11 @@ Mechanical Engineer working at Bosch with automotive software delevolpment for S
 <br />
 
 ### 🌐 Languages
-<img align="left" alt="Portugese" width="35px" style="padding-right:10px;" src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg"/> Portuguese - Native
+<img align="left" alt="Portugese" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/flag_rect_roundcorner_Brazil.svg"/> Portuguese - Native
 
-<img align="left" alt="English" width="35px" style="padding-right:10px;" src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg"/> English - Fluent
+<img align="left" alt="English" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/united-states-svgrepo-com.svg"/> English - Fluent
 
-<img align="left" alt="German" width="35px" style="padding-right:10px;" src="https://github.com/hampusborgos/country-flags/blob/main/svg/de.svg"/> German - Beginner
+<img align="left" alt="German" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/germany-svgrepo-com.svg"/> German - Beginner
 <br />
 
 #
